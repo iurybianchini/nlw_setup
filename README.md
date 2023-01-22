@@ -32,13 +32,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Hapits é um app para ajudar a rastrear os hábitos de links para usar como cartão de visitas online.
+O Habits é um app para ajudar a rastrear os hábitos de links para usar como cartão de visitas online.
 
-
+- [Visite o projeto online] (https://iurybianchini.github.io/nlw_setup)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
